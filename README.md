@@ -1,4 +1,4 @@
-# EV GIS Prospector
+# EV Site Selection Prompt Builder
 
 An AI-powered EV charging site prospecting tool built with React, Vite, and Google Gemini.
 
